@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/brownian-motion-simulator/static/css/main.f855e6bc.css",
+    "main.js": "/brownian-motion-simulator/static/js/main.ae4e035a.js",
+    "static/js/535.7b146fca.chunk.js": "/brownian-motion-simulator/static/js/535.7b146fca.chunk.js",
+    "static/media/logo.svg": "/brownian-motion-simulator/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/brownian-motion-simulator/index.html",
+    "main.f855e6bc.css.map": "/brownian-motion-simulator/static/css/main.f855e6bc.css.map",
+    "main.ae4e035a.js.map": "/brownian-motion-simulator/static/js/main.ae4e035a.js.map",
+    "535.7b146fca.chunk.js.map": "/brownian-motion-simulator/static/js/535.7b146fca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ae4e035a.js"
+  ]
+}
