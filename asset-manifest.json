@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/brownian-motion-simulator/static/css/main.e6c13ad2.css",
+    "main.css": "/brownian-motion-simulator/static/css/main.b5f44e3c.css",
     "main.js": "/brownian-motion-simulator/static/js/main.c606a1a5.js",
     "static/js/535.7b146fca.chunk.js": "/brownian-motion-simulator/static/js/535.7b146fca.chunk.js",
     "index.html": "/brownian-motion-simulator/index.html",
-    "main.e6c13ad2.css.map": "/brownian-motion-simulator/static/css/main.e6c13ad2.css.map",
+    "main.b5f44e3c.css.map": "/brownian-motion-simulator/static/css/main.b5f44e3c.css.map",
     "main.c606a1a5.js.map": "/brownian-motion-simulator/static/js/main.c606a1a5.js.map",
     "535.7b146fca.chunk.js.map": "/brownian-motion-simulator/static/js/535.7b146fca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.b5f44e3c.css",
     "static/js/main.c606a1a5.js"
   ]
 }
