@@ -39,3 +39,16 @@ Built with **React**, **Tailwind CSS**, **Recharts**, and **lucide-react**.
 
 ## 📂 Project Structure (relevant)
 
+brownian-motion-simulator/
+├── src/
+│   ├── App.js              # Renders the BrownianMotion UI
+│   ├── App.css
+│   ├── index.js            # React entry (creates root, renders <App />)
+│   ├── index.css           # Global styles (Tailwind directives)
+│   └── (components/*)      # Optional: your BrownianMotion component, etc.
+├── public/
+│   └── index.html          # HTML template (root div)
+├── tailwind.config.js      # Tailwind setup
+├── postcss.config.js       # PostCSS (Tailwind plugin)
+├── package.json            # Scripts & deps
+└── README.md               # Docs
