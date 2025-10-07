@@ -11,7 +11,7 @@ Built with **React**, **Tailwind CSS**, **Recharts**, and **lucide-react**.
 
 ## 🔗 Live Demo
 
-- **Andrew’s demo:** https://adub3.github.io/brownian-motion-simulator/
+- **Live demo:** https://adub3.github.io/brownian-motion-simulator/
 
 > If you fork this repo, update the link above after you deploy (see **Deploy**).
 
